@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">B10709002_HW2</string>
+    <string name="guest_name_hint">Guest name</string>
+    <string name="party_size_hint">Party size (max 99)</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_guest_name">[name]</string>
+    <string name="default_party_size">\?</string>
+    <string name="settings">settings</string>
+
+    <string name="add">Add</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="colortitle">Color</string>
+    <string name="redlabel">Red</string>
+    <string name="bluelabel">Blue</string>
+    <string name="greenlabel">Green</string>
+
+    <string name="colorkey">color</string>
+    <string name="redkey">red</string>
+    <string name="bluekey">blue</string>
+    <string name="greenkey">green</string>
+
+    <string name="warning">警告視窗</string>
+    <string name="warningcheck">是否確定要刪除?</string>
+    <string name="display">display</string>
+</resources>
